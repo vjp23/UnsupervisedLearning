@@ -3,11 +3,11 @@ Running the Code ---------------------------------------------------------------
 This project has been implemented in Python. To run the code, navigate to the directory
 containing it, and create a new Conda environment using the requirements.txt file:
 
-conda create --name vpmla3 --file requirements.txt
+conda create --name env_name --file requirements.txt
 
 Next, activate the virtual environment:
 
-source activate vpmla3
+source activate env_name
 
 Finally, run each of the experiments described in the report by navigating to the directory
 and running the experiment in unsupervised_learning.py using the run_experiments function:
