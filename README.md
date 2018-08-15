@@ -16,7 +16,7 @@ which applies when a data set is highly dimensional but contains few examples
 relative to this dimensionality, frustrating algorithms’ attempts to accurately explore
 the feature and sample space.
 
-See [the analysis](Clustering and Dimensionality Reduction Analysis.pdf) for a more in-depth review of the experimental setup and the results.
+See [the analysis](https://github.com/vjp23/UnsupervisedLearning/blob/master/Clustering%20and%20Dimensionality%20Reduction%20Analysis.pdf) for a more in-depth review of the experimental setup and the results.
 
 ### Running the Code
 This project has been implemented in Python. To run the code, navigate to the directory
