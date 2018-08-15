@@ -27,7 +27,7 @@ conda create --name env_name --file requirements.txt
 Next, activate the virtual environment:
 
 source activate env_name
-
+ 
 Finally, run each of the experiments described in the report by navigating to the directory
 and running the experiment in unsupervised_learning.py using the run_experiments function:
 
