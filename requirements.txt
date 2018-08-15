@@ -1,0 +1,37 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-64
+cycler=0.10.0==py35hb89929e_0
+freetype=2.8==h12048fb_1
+h5py=2.7.1==py35he1c7800_0
+hdf5=1.10.1==ha036c08_1
+intel-openmp==2018.0.0=8
+keras=2.1.5==py35_0
+kiwisolver=1.0.1==py35h219a9d8_0
+libcxx=4.0.1==h579ed51_0
+libcxxabi==4.0.1==hebd6815_0
+libedit==3.1==hb4e282d_0
+libffi==3.2.1==h475c297_4
+libgfortran==3.0.1=h93005f0_2
+libpng=1.6.34=he12f830_0
+libprotobuf=3.5.1=h2cd40f5_0
+matplotlib=2.2.2=py35ha7267d0_0
+mkl=2018.0.2=1
+ncurses=6.0=hd04f020_2
+numpy=1.12.1=py35h655160a_1
+openssl=1.0.2n=hdbc3d79_0
+pandas=0.22.0=py35h0a44026_0
+pip=9.0.1=py35_5
+protobuf=3.5.1=py35h0a44026_0
+pyparsing=2.2.0=py35h31fab04_0
+python=3.5.5=hc167b69_1
+python-dateutil=2.7.0=py35_0
+pytz=2018.3=py35_0
+pyyaml=3.12=py35hf8cec8a_1
+readline=7.0=hc1231fa_4
+scikit-learn=0.19.1=py35h2b554eb_0
+scipy=1.0.0=py35h8b35106_0
+setuptools=38.5.1=py35_0
+six=1.11.0=py35h39a4c60_1
+sqlite=3.22.0=h3efe00b_0
+tensorflow==1.1.0
