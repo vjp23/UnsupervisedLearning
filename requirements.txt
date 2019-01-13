@@ -27,7 +27,7 @@ pyparsing=2.2.0=py35h31fab04_0
 python=3.5.5=hc167b69_1
 python-dateutil=2.7.0=py35_0
 pytz=2018.3=py35_0
-pyyaml=3.12=py35hf8cec8a_1
+pyyaml=4.2b1
 readline=7.0=hc1231fa_4
 scikit-learn=0.19.1=py35h2b554eb_0
 scipy=1.0.0=py35h8b35106_0
